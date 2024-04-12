@@ -1,9 +1,15 @@
 .tartalom
 {
     width: 950px;
-    background-color: #571807;
+    background-color: #571C0A;
     box-shadow: 5px 5px 5px #3F1407;
-    color: #E8D4A1;
+    text-align: justify;
+    margin: auto;
+    
+}
+body{
+    background-color: #571807;
+    color: #E8D4A1 ;
 }
 
 hr
