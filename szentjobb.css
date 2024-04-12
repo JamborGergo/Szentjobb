@@ -11,6 +11,10 @@ body{
     background-color: #571807;
     color: #E8D4A1 ;
 }
+p{
+    font-size: 16px;
+    text-justify: auto;
+}
 
 hr
 {
@@ -34,6 +38,7 @@ hr
 {
     width: 220px;
     margin-left: 20px;
+    
 }
 
 #kapolna
